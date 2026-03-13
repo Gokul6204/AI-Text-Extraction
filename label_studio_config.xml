@@ -1,0 +1,11 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="REVISION_TABLE" background="#FFA39E"/>
+    <Label value="MATERIAL_ROW" background="#D3F261"/>
+    <Label value="GRADE" background="#B37FEB"/>
+    <Label value="DRAWING_NO" background="#FFD666"/>
+    <Label value="CONTRACT" background="#5CDBD3"/>
+    <Label value="DATE" background="#ADC6FF"/>
+  </RectangleLabels>
+</View>

@@ -1,0 +1,164 @@
+﻿label-studio.exe : C:\Users\us
+er\AppData\Roaming\Python\Pyth
+on314\site-packages\requests\_
+_init__.py:113: 
+RequestsDependencyWarning: 
+urllib3 (2.5.0) or chardet 
+(7.1.0)/charset_normalizer 
+(3.4.4) doesn't match a 
+supported version!
+At line:1 char:1
++ & "C:\Users\user\AppData\Roa
+ming\Python\Python314\Scripts\
+label-studi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~
+    + CategoryInfo          : 
+    NotSpecified: (C:\Users\  
+  user\A...ported version!:   
+ String) [], RemoteExcepti    
+on
+    + FullyQualifiedErrorId : 
+    NativeCommandError
+ 
+  warnings.warn(
+=> Database and media 
+directory: C:\Users\user\AppDa
+ta\Local\label-studio\label-st
+udio
+=> Static URL is set to: 
+/static/
+=> Database and media 
+directory: C:\Users\user\AppDa
+ta\Local\label-studio\label-st
+udio
+=> Static URL is set to: 
+/static/
+Traceback (most recent call 
+last):
+  File "<frozen runpy>", line 
+198, in _run_module_as_main
+  File "<frozen runpy>", line 
+88, in _run_code
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\Scrip
+ts\label-studio.exe\__main__.p
+y", line 5, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\label_studio\server.p
+y", line 298, in main
+    _setup_env()
+    ~~~~~~~~~~^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\label_studio\server.p
+y", line 35, in _setup_env
+    get_wsgi_application()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\django\core\wsgi.py",
+ line 12, in 
+get_wsgi_application
+    
+django.setup(set_prefix=False)
+    
+~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\django\__init__.py", 
+line 19, in setup
+    configure_logging(settings
+.LOGGING_CONFIG, 
+settings.LOGGING)
+                      
+^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\django\conf\__init__.
+py", line 81, in __getattr__
+    self._setup(name)
+    ~~~~~~~~~~~^^^^^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\django\conf\__init__.
+py", line 68, in _setup
+    self._wrapped = 
+Settings(settings_module)
+                    
+~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\django\conf\__init__.
+py", line 166, in __init__
+    mod = importlib.import_mod
+ule(self.SETTINGS_MODULE)
+  File "C:\Python314\Lib\impor
+tlib\__init__.py", line 88, 
+in import_module
+    return _bootstrap._gcd_imp
+ort(name[level:], package, 
+level)
+           ~~~~~~~~~~~~~~~~~~~
+~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^
+  File "<frozen 
+importlib._bootstrap>", line 
+1398, in _gcd_import
+  File "<frozen 
+importlib._bootstrap>", line 
+1371, in _find_and_load
+  File "<frozen 
+importlib._bootstrap>", line 
+1342, in 
+_find_and_load_unlocked
+  File "<frozen 
+importlib._bootstrap>", line 
+938, in _load_unlocked
+  File "<frozen importlib._boo
+tstrap_external>", line 762, 
+in exec_module
+  File "<frozen 
+importlib._bootstrap>", line 
+491, in 
+_call_with_frames_removed
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\label_studio\core\set
+tings\label_studio.py", line 
+6, in <module>
+    from 
+core.utils.secret_key import 
+generate_secret_key_if_missing
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\label_studio\core\uti
+ls\secret_key.py", line 5, in 
+<module>
+    import environ
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\environ\__init__.py",
+ line 18, in <module>
+    from .environ import *
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\environ\environ.py", 
+line 30, in <module>
+    from .compat import (
+    ...<5 lines>...
+    )
+  File "C:\Users\user\AppData\
+Roaming\Python\Python314\site-
+packages\environ\compat.py", 
+line 11, in <module>
+    from pkgutil import 
+find_loader
+ImportError: cannot import 
+name 'find_loader' from 
+'pkgutil' 
+(C:\Python314\Lib\pkgutil.py)
