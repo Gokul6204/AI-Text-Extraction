@@ -91,31 +91,30 @@ def process_pdf(pdf_path, model):
         
     return results
 
+def get_latest_model():
+    import re
+    runs_dir = Path("runs/detect")
+    if not runs_dir.exists():
+        return None
+    
+    def get_run_num(p):
+        match = re.search(r'train(\d*)', p.name)
+        return int(match.group(1)) if match and match.group(1) else 0
+        
+    latest_runs = sorted([d for d in runs_dir.iterdir() if d.is_dir() and d.name.startswith("train")], key=get_run_num, reverse=True)
+    
+    for run in latest_runs:
+        for weight_name in ["last.pt", "best.pt"]:
+            potential_weight = run / "weights" / weight_name
+            if potential_weight.exists():
+                return potential_weight
+    return None
+
 if __name__ == "__main__":
     # Path to the trained model
-    model_path = Path("runs/detect/train/weights/best.pt")
-    
-    # Optional: Look for the most recent run if 'train' is taken
-    if not model_path.exists():
-        runs_dir = Path("runs/detect")
-        if runs_dir.exists():
-            latest_runs = sorted(runs_dir.glob("train*"), reverse=True)
-            for run in latest_runs:
-                potential_weight = run / "weights" / "best.pt"
-                if potential_weight.exists():
-                    model_path = potential_weight
-                    break
+    model_path = get_latest_model()
 
-    if not model_path.exists():
-        print(f"Error: Model weights not found. Please wait for training to finish.")
-        print("Checking for early checkpoints...")
-        # Check for last.pt as an alternative
-        last_weight = model_path.parent / "last.pt"
-        if last_weight.exists():
-            model_path = last_weight
-            print(f"Using intermediate checkpoint: {model_path}")
-
-    if not model_path.exists():
+    if not model_path or not model_path.exists():
         print("No model found. Cannot run inference.")
     else:
         print(f"Using model: {model_path}")
