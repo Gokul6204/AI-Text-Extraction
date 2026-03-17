@@ -1,40 +1,425 @@
 {
-    "a1005_0.pdf": [
+    "drawings/05B1016_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.2449725866317749,
+                    "box": [
+                        6552.424278259277,
+                        6351.352844238281,
+                        8525.487098693848,
+                        7000.6256103515625
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05B1021_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.3036693334579468,
+                    "box": [
+                        6538.743209838867,
+                        6351.876068115234,
+                        8524.971084594727,
+                        6994.397735595703
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                },
+                {
+                    "label": "DRAWING_NO",
+                    "confidence": 0.10307610780000687,
+                    "box": [
+                        6579.694232940674,
+                        6683.3843994140625,
+                        7166.117992401123,
+                        6773.236083984375
+                    ],
+                    "text": "0\nGSV\nJu",
+                    "rows": null
+                }
+            ]
+        }
+    ],
+    "drawings/05C1001_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.22221073508262634,
+                    "box": [
+                        6577.932987213135,
+                        6353.149795532227,
+                        8519.509677886963,
+                        6976.303939819336
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1006_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.23465467989444733,
+                    "box": [
+                        6577.609062194824,
+                        6353.517150878906,
+                        8519.26197052002,
+                        6975.832214355469
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1010_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.2392357736825943,
+                    "box": [
+                        6578.323860168457,
+                        6353.745803833008,
+                        8519.103355407715,
+                        6975.334396362305
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1012_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.21196556091308594,
+                    "box": [
+                        6578.196144104004,
+                        6353.219146728516,
+                        8519.237251281738,
+                        6976.685028076172
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1013_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.23781946301460266,
+                    "box": [
+                        6578.023109436035,
+                        6353.417587280273,
+                        8519.163093566895,
+                        6975.853500366211
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1014_0 copy.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.22896739840507507,
+                    "box": [
+                        6577.89436340332,
+                        6353.4759521484375,
+                        8519.180603027344,
+                        6975.977783203125
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1014_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.22896739840507507,
+                    "box": [
+                        6577.89436340332,
+                        6353.4759521484375,
+                        8519.180603027344,
+                        6975.977783203125
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawings/05C1015_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.24722644686698914,
+                    "box": [
+                        6578.419132232666,
+                        6353.670959472656,
+                        8519.137859344482,
+                        6975.2362060546875
+                    ],
+                    "text": "REVISIONS\nA\nGSV\nJun 11 2025\nISSUED FOR APPROVAL\n0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION\nREV\nDWN BY\nDATE\nDESCRIPTION",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV\nDWN BY\nDATE\nDESCRIPTION"
+                        ],
+                        [
+                            "A\nGSV\nJun 11 2025\nISSUED FOR APPROVAL"
+                        ],
+                        [
+                            "0\nGSV\nJul 28 2025\nISSUED FOR FABRICATION"
+                        ]
+                    ]
+                }
+            ]
+        }
+    ],
+    "drawing/a1005_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.6502337455749512,
+                    "box": [
+                        641.2056827545166,
+                        2897.284412384033,
+                        1511.6323328018188,
+                        3222.2080993652344
+                    ],
+                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
+                        ],
+                        [
+                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
+                        ]
+                    ]
+                },
+                {
+                    "label": "DATE",
+                    "confidence": 0.3746030926704407,
+                    "box": [
+                        1854.2015218734741,
+                        3083.7478065490723,
+                        2064.419617652893,
+                        3153.101634979248
+                    ],
+                    "text": "DATE :\n05-27-2025",
+                    "rows": null
+                },
+                {
+                    "label": "DRAWING_NO",
+                    "confidence": 0.3129042088985443,
+                    "box": [
+                        2074.7397422790527,
+                        3084.0861225128174,
+                        2324.334669113159,
+                        3153.682909011841
+                    ],
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1005",
+                    "rows": null
+                }
+            ]
+        }
+    ],
+    "drawing/a100_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
                     "label": "DRAWING_NO",
-                    "confidence": 0.8751329779624939,
+                    "confidence": 0.9218603372573853,
                     "box": [
-                        2064.706787109375,
-                        3085.857421875,
-                        2321.553466796875,
-                        3153.95556640625
+                        2071.202344894409,
+                        3084.6447372436523,
+                        2322.811346054077,
+                        3153.977794647217
                     ],
-                    "text": "NO. :        \nDWG\n     \na1005",
+                    "text": "NO. :        \nNO. :        \nDWG\n    \na100",
                     "rows": null
                 },
                 {
                     "label": "DATE",
-                    "confidence": 0.813183605670929,
+                    "confidence": 0.7410517930984497,
                     "box": [
-                        1850.3450927734375,
-                        3084.777099609375,
-                        2062.25048828125,
-                        3154.11962890625
+                        1854.9612379074097,
+                        3083.9548873901367,
+                        2064.1149044036865,
+                        3152.6597785949707
                     ],
                     "text": "DATE :\n05-27-2025",
                     "rows": null
                 },
                 {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5792425274848938,
+                    "confidence": 0.6446822881698608,
                     "box": [
-                        639.01220703125,
-                        2897.878173828125,
-                        1508.04052734375,
-                        3221.034912109375
+                        641.0691332817078,
+                        2897.2397232055664,
+                        1511.701762676239,
+                        3222.187957763672
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -52,42 +437,42 @@
             ]
         }
     ],
-    "a100_0.pdf": [
+    "drawing/a101_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
                     "label": "DRAWING_NO",
-                    "confidence": 0.979835033416748,
+                    "confidence": 0.9127020239830017,
                     "box": [
-                        2064.79443359375,
-                        3085.202392578125,
-                        2321.31396484375,
-                        3153.80224609375
+                        2071.5041399002075,
+                        3084.4766807556152,
+                        2322.749333381653,
+                        3153.932476043701
                     ],
-                    "text": "NO. :        \nDWG\n     \na100",
+                    "text": "NO. :        \nNO. :        \nDWG\n    \na101",
                     "rows": null
                 },
                 {
                     "label": "DATE",
-                    "confidence": 0.9311037659645081,
+                    "confidence": 0.7712700366973877,
                     "box": [
-                        1849.971435546875,
-                        3084.97216796875,
-                        2062.774658203125,
-                        3153.185546875
+                        1855.0098752975464,
+                        3083.9895057678223,
+                        2064.0932607650757,
+                        3152.589282989502
                     ],
                     "text": "DATE :\n05-27-2025",
                     "rows": null
                 },
                 {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5779054760932922,
+                    "confidence": 0.6548002362251282,
                     "box": [
-                        638.7540283203125,
-                        2897.86669921875,
-                        1507.9390869140625,
-                        3221.044921875
+                        641.1723053455353,
+                        2897.2239875793457,
+                        1511.693615913391,
+                        3222.208728790283
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -105,42 +490,18 @@
             ]
         }
     ],
-    "a101_0.pdf": [
+    "drawing/a1020_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
-                    "label": "DRAWING_NO",
-                    "confidence": 0.9821522831916809,
-                    "box": [
-                        2064.814697265625,
-                        3085.445556640625,
-                        2321.16064453125,
-                        3153.798583984375
-                    ],
-                    "text": "NO. :        \nDWG\n     \na101",
-                    "rows": null
-                },
-                {
-                    "label": "DATE",
-                    "confidence": 0.9343838691711426,
-                    "box": [
-                        1849.9102783203125,
-                        3084.94921875,
-                        2062.8037109375,
-                        3153.181396484375
-                    ],
-                    "text": "DATE :\n05-27-2025",
-                    "rows": null
-                },
-                {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5903638005256653,
+                    "confidence": 0.6336482167243958,
                     "box": [
-                        637.6261596679688,
-                        2899.564697265625,
-                        1508.3636474609375,
-                        3221.37451171875
+                        640.95787525177,
+                        2897.189998626709,
+                        1511.7848110198975,
+                        3222.267894744873
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -154,99 +515,46 @@
                             "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
                         ]
                     ]
+                },
+                {
+                    "label": "DATE",
+                    "confidence": 0.17287790775299072,
+                    "box": [
+                        1853.6711311340332,
+                        3083.708152770996,
+                        2064.5229721069336,
+                        3153.2797622680664
+                    ],
+                    "text": "DATE :\n05-27-2025",
+                    "rows": null
+                },
+                {
+                    "label": "DRAWING_NO",
+                    "confidence": 0.15241436660289764,
+                    "box": [
+                        2075.1757764816284,
+                        3083.6247539520264,
+                        2324.3791723251343,
+                        3153.708086013794
+                    ],
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1020",
+                    "rows": null
                 }
             ]
         }
     ],
-    "a1020_0.pdf": [
+    "drawing/a1021_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
-                    "label": "DRAWING_NO",
-                    "confidence": 0.9036908745765686,
-                    "box": [
-                        2064.975830078125,
-                        3085.64111328125,
-                        2321.664306640625,
-                        3153.992919921875
-                    ],
-                    "text": "NO. :        \nDWG\n     \na1020",
-                    "rows": null
-                },
-                {
-                    "label": "DATE",
-                    "confidence": 0.8755471110343933,
-                    "box": [
-                        1850.394775390625,
-                        3084.83740234375,
-                        2062.519287109375,
-                        3154.14208984375
-                    ],
-                    "text": "DATE :\n05-27-2025",
-                    "rows": null
-                },
-                {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5702509880065918,
+                    "confidence": 0.6407470703125,
                     "box": [
-                        637.5416870117188,
-                        2899.5234375,
-                        1508.4757080078125,
-                        3221.3779296875
-                    ],
-                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
-                    "rows": [
-                        [
-                            "REVISIONS"
-                        ],
-                        [
-                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
-                        ],
-                        [
-                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
-                        ]
-                    ]
-                }
-            ]
-        }
-    ],
-    "a1021_0.pdf": [
-        {
-            "page": 0,
-            "detections": [
-                {
-                    "label": "DRAWING_NO",
-                    "confidence": 0.9287566542625427,
-                    "box": [
-                        2064.92041015625,
-                        3085.815673828125,
-                        2321.651123046875,
-                        3154.134521484375
-                    ],
-                    "text": "NO. :        \nDWG\n     \na1021",
-                    "rows": null
-                },
-                {
-                    "label": "DATE",
-                    "confidence": 0.8702731132507324,
-                    "box": [
-                        1850.4029541015625,
-                        3084.84619140625,
-                        2062.427001953125,
-                        3154.14208984375
-                    ],
-                    "text": "DATE :\n05-27-2025",
-                    "rows": null
-                },
-                {
-                    "label": "REVISION_TABLE",
-                    "confidence": 0.5713498592376709,
-                    "box": [
-                        638.605712890625,
-                        2897.861083984375,
-                        1507.978515625,
-                        3221.07958984375
+                        641.0260283946991,
+                        2897.183074951172,
+                        1511.7894315719604,
+                        3222.264747619629
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -262,15 +570,39 @@
                     ]
                 },
                 {
-                    "label": "REVISION_TABLE",
-                    "confidence": 0.10599424690008163,
+                    "label": "DRAWING_NO",
+                    "confidence": 0.4116271734237671,
                     "box": [
-                        961.131591796875,
-                        1233.1451416015625,
-                        1474.258544921875,
-                        1519.3653564453125
+                        2074.800295829773,
+                        3084.2551231384277,
+                        2324.2497968673706,
+                        3153.7839317321777
                     ],
-                    "text": "3\n4\n4\n113/8\n8",
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1021",
+                    "rows": null
+                },
+                {
+                    "label": "DATE",
+                    "confidence": 0.22650419175624847,
+                    "box": [
+                        1853.859601020813,
+                        3083.7245178222656,
+                        2064.4677686691284,
+                        3153.221855163574
+                    ],
+                    "text": "DATE :\n05-27-2025",
+                    "rows": null
+                },
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.1611972153186798,
+                    "box": [
+                        956.2260460853577,
+                        1234.1096019744873,
+                        1470.1836705207825,
+                        1507.6813316345215
+                    ],
+                    "text": "3\n4\n4\n113/8",
                     "rows": [
                         [
                             "3\n4\n4\n113/8"
@@ -280,42 +612,42 @@
             ]
         }
     ],
-    "a102_0.pdf": [
+    "drawing/a102_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
                     "label": "DRAWING_NO",
-                    "confidence": 0.9823033213615417,
+                    "confidence": 0.8896996378898621,
                     "box": [
-                        2064.858154296875,
-                        3085.6650390625,
-                        2321.31103515625,
-                        3153.787841796875
+                        2071.424617767334,
+                        3085.078411102295,
+                        2322.718448638916,
+                        3153.987865447998
                     ],
-                    "text": "NO. :        \nDWG\n     \na102",
+                    "text": "NO. :        \nDWG\n    \na102",
                     "rows": null
                 },
                 {
                     "label": "DATE",
-                    "confidence": 0.9335640668869019,
+                    "confidence": 0.7305786609649658,
                     "box": [
-                        1849.9393310546875,
-                        3084.94189453125,
-                        2062.781005859375,
-                        3153.18408203125
+                        1854.9544286727905,
+                        3083.9517402648926,
+                        2064.1433572769165,
+                        3152.681179046631
                     ],
                     "text": "DATE :\n05-27-2025",
                     "rows": null
                 },
                 {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5875283479690552,
+                    "confidence": 0.6472194194793701,
                     "box": [
-                        637.639404296875,
-                        2899.508056640625,
-                        1508.3359375,
-                        3221.3505859375
+                        641.0947895050049,
+                        2897.1660804748535,
+                        1511.696047782898,
+                        3222.198657989502
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -333,42 +665,148 @@
             ]
         }
     ],
-    "a1031_0.pdf": [
+    "drawing/a1031_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.6324582695960999,
+                    "box": [
+                        641.1402654647827,
+                        2897.0408248901367,
+                        1511.815938949585,
+                        3222.256565093994
+                    ],
+                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
+                        ],
+                        [
+                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
+                        ]
+                    ]
+                },
+                {
+                    "label": "DRAWING_NO",
+                    "confidence": 0.5552938580513,
+                    "box": [
+                        2074.925537109375,
+                        3084.257640838623,
+                        2324.258794784546,
+                        3153.7776374816895
+                    ],
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1031",
+                    "rows": null
+                },
+                {
+                    "label": "DATE",
+                    "confidence": 0.3071591556072235,
+                    "box": [
+                        1854.0760374069214,
+                        3083.771095275879,
+                        2064.410376548767,
+                        3153.1475830078125
+                    ],
+                    "text": "DATE :\n05-27-2025",
+                    "rows": null
+                }
+            ]
+        }
+    ],
+    "drawing/a1032_0.pdf": [
+        {
+            "page": 0,
+            "detections": [
+                {
+                    "label": "REVISION_TABLE",
+                    "confidence": 0.6390545964241028,
+                    "box": [
+                        641.0597705841064,
+                        2897.3309898376465,
+                        1511.6877794265747,
+                        3222.216281890869
+                    ],
+                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
+                    "rows": [
+                        [
+                            "REVISIONS"
+                        ],
+                        [
+                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
+                        ],
+                        [
+                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
+                        ]
+                    ]
+                },
+                {
+                    "label": "DATE",
+                    "confidence": 0.3756449818611145,
+                    "box": [
+                        1854.2956352233887,
+                        3083.7852573394775,
+                        2064.4125652313232,
+                        3153.0950260162354
+                    ],
+                    "text": "DATE :\n05-27-2025",
+                    "rows": null
+                },
+                {
+                    "label": "DRAWING_NO",
+                    "confidence": 0.2680118978023529,
+                    "box": [
+                        2074.655842781067,
+                        3084.161024093628,
+                        2324.29940700531,
+                        3153.7936878204346
+                    ],
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1032",
+                    "rows": null
+                }
+            ]
+        }
+    ],
+    "drawing/a103_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
                     "label": "DRAWING_NO",
-                    "confidence": 0.8738532662391663,
+                    "confidence": 0.9089992046356201,
                     "box": [
-                        2064.83203125,
-                        3085.35205078125,
-                        2321.82763671875,
-                        3154.1845703125
+                        2071.296215057373,
+                        3084.7649574279785,
+                        2322.8512287139893,
+                        3153.9966773986816
                     ],
-                    "text": "NO. :        \nDWG\n     \na1031",
+                    "text": "NO. :        \nNO. :        \nDWG\n    \na103",
                     "rows": null
                 },
                 {
                     "label": "DATE",
-                    "confidence": 0.7913200259208679,
+                    "confidence": 0.7484264373779297,
                     "box": [
-                        1850.4659423828125,
-                        3084.742431640625,
-                        2061.813720703125,
-                        3154.111328125
+                        1854.9785041809082,
+                        3083.9652729034424,
+                        2064.1204977035522,
+                        3152.6582050323486
                     ],
                     "text": "DATE :\n05-27-2025",
                     "rows": null
                 },
                 {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5525954365730286,
+                    "confidence": 0.6355355381965637,
                     "box": [
-                        638.3155517578125,
-                        2897.760009765625,
-                        1508.048828125,
-                        3221.1259765625
+                        641.1042737960815,
+                        2897.126111984253,
+                        1511.8285846710205,
+                        3222.2858333587646
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -386,42 +824,30 @@
             ]
         }
     ],
-    "a1032_0.pdf": [
+    "drawing/a1040_0.pdf": [
         {
             "page": 0,
             "detections": [
                 {
-                    "label": "DATE",
-                    "confidence": 0.799403190612793,
-                    "box": [
-                        1850.35986328125,
-                        3084.762939453125,
-                        2062.13525390625,
-                        3154.113525390625
-                    ],
-                    "text": "DATE :\n05-27-2025",
-                    "rows": null
-                },
-                {
                     "label": "DRAWING_NO",
-                    "confidence": 0.7482051253318787,
+                    "confidence": 0.6810144186019897,
                     "box": [
-                        2066.974853515625,
-                        3085.133056640625,
-                        2321.415283203125,
-                        3153.6484375
+                        2074.813184738159,
+                        3084.044895172119,
+                        2324.4582080841064,
+                        3153.688259124756
                     ],
-                    "text": "NO. :        \nDWG\n    \na1032",
+                    "text": "NO. :        \nNO. :        \nDWG\n   \n   \na1040",
                     "rows": null
                 },
                 {
                     "label": "REVISION_TABLE",
-                    "confidence": 0.5712214708328247,
+                    "confidence": 0.6363966464996338,
                     "box": [
-                        638.6416015625,
-                        2897.888671875,
-                        1507.9373779296875,
-                        3221.037353515625
+                        641.0834813117981,
+                        2897.260808944702,
+                        1511.7168402671814,
+                        3222.254991531372
                     ],
                     "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
                     "rows": [
@@ -435,112 +861,18 @@
                             "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
                         ]
                     ]
-                }
-            ]
-        }
-    ],
-    "a103_0.pdf": [
-        {
-            "page": 0,
-            "detections": [
-                {
-                    "label": "DRAWING_NO",
-                    "confidence": 0.9798673391342163,
-                    "box": [
-                        2064.998291015625,
-                        3085.361083984375,
-                        2321.312744140625,
-                        3153.8046875
-                    ],
-                    "text": "NO. :        \nDWG\n     \na103",
-                    "rows": null
                 },
                 {
                     "label": "DATE",
-                    "confidence": 0.9341301321983337,
+                    "confidence": 0.3988746404647827,
                     "box": [
-                        1850.0631103515625,
-                        3084.9658203125,
-                        2062.76904296875,
-                        3153.191650390625
+                        1854.4646501541138,
+                        3083.8120079040527,
+                        2064.3738985061646,
+                        3153.0550575256348
                     ],
                     "text": "DATE :\n05-27-2025",
                     "rows": null
-                },
-                {
-                    "label": "REVISION_TABLE",
-                    "confidence": 0.5663119554519653,
-                    "box": [
-                        637.495849609375,
-                        2899.483642578125,
-                        1508.448974609375,
-                        3221.35595703125
-                    ],
-                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
-                    "rows": [
-                        [
-                            "REVISIONS"
-                        ],
-                        [
-                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
-                        ],
-                        [
-                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
-                        ]
-                    ]
-                }
-            ]
-        }
-    ],
-    "a1040_0.pdf": [
-        {
-            "page": 0,
-            "detections": [
-                {
-                    "label": "DRAWING_NO",
-                    "confidence": 0.9430575370788574,
-                    "box": [
-                        2064.9951171875,
-                        3085.646240234375,
-                        2321.7099609375,
-                        3153.953857421875
-                    ],
-                    "text": "NO. :        \nDWG\n     \na1040",
-                    "rows": null
-                },
-                {
-                    "label": "DATE",
-                    "confidence": 0.9055209159851074,
-                    "box": [
-                        1850.3814697265625,
-                        3084.906005859375,
-                        2062.8115234375,
-                        3154.1552734375
-                    ],
-                    "text": "DATE :\n05-27-2025",
-                    "rows": null
-                },
-                {
-                    "label": "REVISION_TABLE",
-                    "confidence": 0.5693296790122986,
-                    "box": [
-                        638.6194458007812,
-                        2897.84814453125,
-                        1508.0086669921875,
-                        3221.07373046875
-                    ],
-                    "text": "REVISIONS\n0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025\nREV #\nDWN BY\n                  DESCRIPTION\n       DATE",
-                    "rows": [
-                        [
-                            "REVISIONS"
-                        ],
-                        [
-                            "REV #\nDWN BY\n                  DESCRIPTION\n       DATE"
-                        ],
-                        [
-                            "0\nGSV\nISSUED FOR FABRICATION\nJul 28 2025"
-                        ]
-                    ]
                 }
             ]
         }
