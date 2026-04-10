@@ -1,0 +1,660 @@
+{
+    "drawing/E2501_1.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9053062200546265,
+            "box": [
+                1145.764892578125,
+                989.5731811523438,
+                1218.5751953125,
+                1010.5167846679688
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8882272243499756,
+            "box": [
+                1014.1326904296875,
+                745.4915771484375,
+                1263.0433349609375,
+                816.1319580078125
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nMar 15 2025\nB\nMNK\nISSUED FOR RE-APPROVAL\nMay 27 2025\n0\nMNK\nISSUED FOR CONSTRUCTION\nDec 12 2025\n1\nMNK\nREVISED AS NOTED\nFeb 4 2026\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nMar 15 2025"
+                ],
+                [
+                    "B\nMNK\nISSUED FOR RE-APPROVAL\nMay 27 2025"
+                ],
+                [
+                    "0\nMNK\nISSUED FOR CONSTRUCTION\nDec 12 2025"
+                ],
+                [
+                    "1\nMNK\nREVISED AS NOTED\nFeb 4 2026"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7485691905021667,
+            "box": [
+                1146.3125,
+                1010.3016357421875,
+                1219.15380859375,
+                1029.5120849609375
+            ],
+            "text": "NO. :        \nDWG\n    \nE2501\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E2501"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.7120485901832581,
+            "box": [
+                991.3966064453125,
+                1029.70654296875,
+                1260.9893798828125,
+                1050.3720703125
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nPARTIAL  PENTHOUSE ROOF FRAMING PLAN (PHASE-3) (SEQ#25)",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PARTIAL  PENTHOUSE ROOF FRAMING PLAN (PHASE-3) (SEQ#25)"
+                ]
+            ]
+        }
+    ],
+    "drawing/E2502_1.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9041160941123962,
+            "box": [
+                1145.74853515625,
+                989.5680541992188,
+                1218.49755859375,
+                1010.5097045898438
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8854216933250427,
+            "box": [
+                1014.1416015625,
+                745.4971923828125,
+                1263.063720703125,
+                816.1534423828125
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nMar 15 2025\nB\nMNK\nISSUED FOR RE-APPROVAL\nMay 27 2025\n0\nMNK\nISSUED FOR CONSTRUCTION\nDec 12 2025\n1\nMNK\nREVISED AS NOTED\nFeb 4 2026\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nMar 15 2025"
+                ],
+                [
+                    "B\nMNK\nISSUED FOR RE-APPROVAL\nMay 27 2025"
+                ],
+                [
+                    "0\nMNK\nISSUED FOR CONSTRUCTION\nDec 12 2025"
+                ],
+                [
+                    "1\nMNK\nREVISED AS NOTED\nFeb 4 2026"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7762287855148315,
+            "box": [
+                1145.770263671875,
+                1010.4229736328125,
+                1219.264892578125,
+                1029.8433837890625
+            ],
+            "text": "NO. :        \nDWG\n    \nE2502\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E2502"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.739788293838501,
+            "box": [
+                991.7037353515625,
+                1029.800537109375,
+                1261.9154052734375,
+                1050.263427734375
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nPARTIAL PENTHOUSE ROOF MISC PLAN-(PHASE-3)(SEQ#25)",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PARTIAL PENTHOUSE ROOF MISC PLAN-(PHASE-3)(SEQ#25)"
+                ]
+            ]
+        }
+    ],
+    "drawing/E2505_0.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9015220999717712,
+            "box": [
+                1145.79443359375,
+                989.5640258789062,
+                1218.656005859375,
+                1010.4652709960938
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.894433856010437,
+            "box": [
+                1013.9849243164062,
+                745.5926513671875,
+                1262.35693359375,
+                815.9320068359375
+            ],
+            "text": "A\nMNK\nISSUED FOR APPROVAL\nMay 27 2025\n0\nMNK\nISSUED FOR CONSTRUCTION\nFeb 4 2026\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nMay 27 2025"
+                ],
+                [
+                    "0\nMNK\nISSUED FOR CONSTRUCTION\nFeb 4 2026"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7658277153968811,
+            "box": [
+                1146.5966796875,
+                1010.2481689453125,
+                1218.6015625,
+                1029.5855712890625
+            ],
+            "text": "NO. :        \nDWG\n    \nE2505\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E2505"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.7372093796730042,
+            "box": [
+                986.1602172851562,
+                1030.1240234375,
+                1257.54443359375,
+                1050.59912109375
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nSECTIONS & TYPICAL DETAILS",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "SECTIONS & TYPICAL DETAILS"
+                ]
+            ]
+        }
+    ],
+    "drawing/E2701_A.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9168418645858765,
+            "box": [
+                1145.77587890625,
+                989.55517578125,
+                1218.67529296875,
+                1010.52978515625
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8835258483886719,
+            "box": [
+                1014.2318115234375,
+                745.2227783203125,
+                1262.3597412109375,
+                815.5452880859375
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nApr 3 2025\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nApr 3 2025"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7540751695632935,
+            "box": [
+                1145.1485595703125,
+                1010.3458251953125,
+                1219.3470458984375,
+                1030.0565185546875
+            ],
+            "text": "NO. :        \nDWG\n     \nE2701\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E2701"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.725210964679718,
+            "box": [
+                991.314453125,
+                1029.640380859375,
+                1262.74658203125,
+                1050.37060546875
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nPARTIAL LEVEL-09 FRAMING PLAN (PHASE-4) (SEQ#27)",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PARTIAL LEVEL-09 FRAMING PLAN (PHASE-4) (SEQ#27)"
+                ]
+            ]
+        }
+    ],
+    "drawing/E3303_A.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9110611081123352,
+            "box": [
+                1145.81005859375,
+                989.5892333984375,
+                1218.5693359375,
+                1010.504150390625
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8846499919891357,
+            "box": [
+                1014.4658813476562,
+                745.2517700195312,
+                1262.3720703125,
+                815.5214233398438
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nApr 3 2025\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nApr 3 2025"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7670952081680298,
+            "box": [
+                1146.527587890625,
+                1010.4818115234375,
+                1219.316650390625,
+                1029.6759033203125
+            ],
+            "text": "NO. :        \nDWG\nE3303\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E3303"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.7358143925666809,
+            "box": [
+                987.099609375,
+                1030.1380615234375,
+                1257.5419921875,
+                1050.5882568359375
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nSECTIONS & TYPICAL DETAILS",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "SECTIONS & TYPICAL DETAILS"
+                ]
+            ]
+        }
+    ],
+    "drawing/E3705_A (1).pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9204939603805542,
+            "box": [
+                1145.78564453125,
+                989.5318603515625,
+                1218.569091796875,
+                1010.47021484375
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8870645761489868,
+            "box": [
+                1014.2778930664062,
+                745.2178955078125,
+                1262.35693359375,
+                815.5145263671875
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nApr 3 2025\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nApr 3 2025"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7622191309928894,
+            "box": [
+                1145.33203125,
+                1010.3853759765625,
+                1219.025390625,
+                1030.0501708984375
+            ],
+            "text": "NO. :        \nDWG\n     \nE3705\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E3705"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.7358296513557434,
+            "box": [
+                989.65478515625,
+                1030.03857421875,
+                1263.052001953125,
+                1050.78076171875
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nDETAILS, SECTIONS & TYPICAL DETAILS",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "DETAILS, SECTIONS & TYPICAL DETAILS"
+                ]
+            ]
+        }
+    ],
+    "drawing/E3705_A.pdf": [
+        {
+            "page": 0,
+            "label": "PROJECT_NO",
+            "confidence": 0.9204939603805542,
+            "box": [
+                1145.78564453125,
+                989.5318603515625,
+                1218.569091796875,
+                1010.47021484375
+            ],
+            "text": "25001\n    \nNO. :        \nPROJ.",
+            "rows": [
+                [
+                    "25001"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "PROJ."
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "REVISION_TABLE",
+            "confidence": 0.8870645761489868,
+            "box": [
+                1014.2778930664062,
+                745.2178955078125,
+                1262.35693359375,
+                815.5145263671875
+            ],
+            "text": "REVISIONS\nA\nMNK\nISSUED FOR APPROVAL\nApr 3 2025\nREV#\nDWN BY\n                       DESCRIPTION\n        DATE",
+            "rows": [
+                [
+                    "A\nMNK\nISSUED FOR APPROVAL\nApr 3 2025"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_NO",
+            "confidence": 0.7622191309928894,
+            "box": [
+                1145.33203125,
+                1010.3853759765625,
+                1219.025390625,
+                1030.0501708984375
+            ],
+            "text": "NO. :        \nDWG\n     \nE3705\nNO. :",
+            "rows": [
+                [
+                    "NO. :"
+                ],
+                [
+                    "DWG"
+                ],
+                [
+                    "E3705"
+                ],
+                [
+                    "NO. :"
+                ]
+            ]
+        },
+        {
+            "page": 0,
+            "label": "DRAWING_DESCRIPTION",
+            "confidence": 0.7358296513557434,
+            "box": [
+                989.65478515625,
+                1030.03857421875,
+                1263.052001953125,
+                1050.78076171875
+            ],
+            "text": "DWG DESCRIPTION : \nNO. :        \n                                     \n                                     \nDETAILS, SECTIONS & TYPICAL DETAILS",
+            "rows": [
+                [
+                    "DWG DESCRIPTION :"
+                ],
+                [
+                    "NO. :"
+                ],
+                [
+                    "DETAILS, SECTIONS & TYPICAL DETAILS"
+                ]
+            ]
+        }
+    ]
+}

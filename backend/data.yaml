@@ -1,0 +1,10 @@
+path: D:\gokul\AI-Text-Extraction(C)\backend\datasets\drawings
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: REVISION_TABLE
+  1: DRAWING_NO
+  2: DRAWING_DESCRIPTION
+  3: PROJECT_NO
